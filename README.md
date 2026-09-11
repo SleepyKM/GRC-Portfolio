@@ -1,4 +1,8 @@
-<h1>Hi, I'm Kwasi! <br/> <a href="https://www.linkedin.com/in/kwasi-mantey/">GRC Cybersecurity Professional</a>, 
+<h1>Hi, I'm Kwasi! <br/> <a href="https://www.linkedin.com/in/kwasi-mantey/">GRC Cybersecurity Professional</a>
+
+
+  
+#### I’m a cybersecurity professional with a focus on Governance, Risk, and Compliance (GRC). I enjoy working on projects involving risk assessments, security controls, compliance, and helping organizations improve their security. I’m also always looking for opportunities to learn, build new skills, and get more hands-on experience in cybersecurity. This portfolio is a collection of some of the projects I’ve worked on along the way.
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
