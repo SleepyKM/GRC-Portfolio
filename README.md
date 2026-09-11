@@ -1,5 +1,4 @@
-<h1>Hi, I'm Kwasi! <br/> <a href="https://www.linkedin.com/in/kwasi-mantey/">GRC Cybersecurity Professional</a>
-
+<h1>Hi, My name is Kwasi Mantey, 
 
   
 #### I’m a cybersecurity professional with a focus on Governance, Risk, and Compliance (GRC). I enjoy working on projects involving risk assessments, security controls, compliance, and helping organizations improve their security. I’m also always looking for opportunities to learn, build new skills, and get more hands-on experience in cybersecurity. This portfolio is a collection of some of the projects I’ve worked on along the way.
@@ -8,8 +7,8 @@
 
 - <b>National Student Loan Data System</b>
   - NSLDS Security Assessment Plan ([NSDLS_Security Assessment Plan (SAP)_8-15-2026.pdf](https://github.com/user-attachments/files/32130056/NSDLS_Security.Assessment.Plan.SAP._8-15-2026.pdf))
-
-
+  - NSLDS System Security Plan ([NSLDS_ System Security Plan (SSP)_10.20.2025 .pdf](https://github.com/user-attachments/files/32130544/NSLDS_.System.Security.Plan.SSP._10.20.2025.pdf))
+  - NSLDS FIPS 199 ([PS_FIPS 199 Security Catergorization Form_10.2.2025.pdf](https://github.com/user-attachments/files/32130734/PS_FIPS.199.Security.Catergorization.Form_10.2.2025.pdf))
 
 <h2> 🤳 Connect with me:</h2>
 
